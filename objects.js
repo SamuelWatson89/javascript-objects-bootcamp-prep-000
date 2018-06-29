@@ -1,4 +1,4 @@
-const playlist = new Object({ Nero: 'Promises'})
+const playlist = { Nero: 'Promises'})
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist['pendulum'] = "tarantula"
