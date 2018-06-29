@@ -10,7 +10,7 @@ function updatePlaylist(playlist, artist, song) {
   // the function
   playlist[artist] = song
 
-  console.log(playlist)
+  return playlist
 }
 
 function removeFromPlaylist(playlist, artist) {
