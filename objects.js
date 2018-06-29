@@ -1,6 +1,6 @@
 var playlist = {Nero: "Promises"};
 
 function updatePlaylist(playlist, artistName, songtitle){
-  playlist[pendulum] = "tarantula";
+  Object.assign({playlist}, {pendulum: 'tarantula'})
   return playlist
 }
