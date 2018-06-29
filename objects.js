@@ -1,3 +1,5 @@
 var playlist = {Nero: 'Promises'};
 
-function updatePlaylist(){}
+function updatePlaylist(object, string, title){
+  Object.assign
+}
