@@ -6,5 +6,3 @@ function updatePlaylist(playlist, artistName, songtitle){
 }
 
 function removeFromPlaylist(playlist, atristName){
-  
-}
