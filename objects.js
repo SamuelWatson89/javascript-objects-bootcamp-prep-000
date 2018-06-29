@@ -1,3 +1,3 @@
 var playlist = {Nero: 'Promises'};
 
-function 
+function updatePlaylist(){}
