@@ -1,1 +1,1 @@
-var playlist = {Nero: 'Promises'}
+var playlist = {Nero: 'Promises'};
