@@ -14,5 +14,3 @@ function removeFromPlaylist(playlist, artist) {
 
   return playlist
 }
-
-console.log(playlist)
